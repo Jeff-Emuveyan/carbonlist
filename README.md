@@ -1,6 +1,6 @@
-# Carbon Test Task
+# Carbon
 
-Interview test application for Carbon.
+An Android app for Carbon.
 
 This app demonstrate some of the best practices of Android app developement such as Clean architecture, MVVM, Dependency Injection (using Hilt), Asynchronous programming using Kotlin coroutines, Unit test using Junit and Mockito; and Instrumentation test.
 
